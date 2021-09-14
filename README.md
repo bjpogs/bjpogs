@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Front End ( HTML / CSS / Bootstrap )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : bjpogs26@gmail.com
+- ✨ Chumchumqtqt 
 
 <!---
 bjpogs/bjpogs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
